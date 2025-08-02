@@ -4,4 +4,6 @@ def get_users():
 def get_version():
     return "1.0.0"
 
+def hello():
+    return "Hello"
 # Security patch applied
