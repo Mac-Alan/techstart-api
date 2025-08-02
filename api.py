@@ -6,5 +6,9 @@ def get_version():
 
 def bye():
     return "Bye message"
+
+def hello():
+    return "Hello"
+
 # Security patch applied
 
